@@ -81,20 +81,14 @@ Or use IntelliJ/Eclipse "Run" action on MainMenu.
 ## Folder & Package Structure
 
 ```
-CCRM/
-├── src/
-│   └── edu/ccrm/
-│       ├── cli/
-│       ├── domain/
-│       ├── service/
-│       ├── io/
-│       ├── util/
-│       └── config/
-├── students.csv
-├── courses.csv
+Java-VITyarthi/
+├── .gitignore
 ├── README.md
 ├── USAGE.md
-└── requirements.md
+├── test-data/
+└── src/
+    └── edu/
+        └── ccrm/
 ```
 
 ## Features (Demo Flow)
