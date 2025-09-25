@@ -3,7 +3,7 @@
 
 # Campus Course & Records Manager (CCRM)
 
-GitHub Repository
+## GitHub Repository
 
 Overview
 
@@ -25,7 +25,7 @@ CLI Navigation: Menu-driven interface for all operations.
 
 ---
 
-Technical Highlights
+## Technical Highlights
 
 Java Version: 17+
 
@@ -46,17 +46,23 @@ Recursion Utilities: Directory scanning and file operations
 Assertions & Validation: Runtime checks enabled with -ea
 
 
-
+```
 ---
 
-Project Structure
+## Project Structure
 
 Java-VITyarthi/
+
 ├── .gitignore
+
 ├── README.md
+
 ├── USAGE.md
+
 ├── test-data/
+
 └── src/
+
     └── edu/
         └── ccrm/
             ├── cli/
@@ -67,13 +73,16 @@ Java-VITyarthi/
             └── util/
 
 ---
+```
 
 Sample CSV Formats
 
 students.csv
 
 regNo,fullName,email
+
 2025001,John Smith,john.smith@email.com
+
 2025002,Emily Johnson,emily.johnson@email.com
 
 courses.csv
@@ -84,7 +93,7 @@ CS101,Introduction to Programming,3,FALL,Computer Science
 
 ---
 
-Setup & Run
+## Setup & Run
 
 Install Java 17+
 
@@ -116,7 +125,7 @@ java -ea -cp out edu.ccrm.cli.MainMenu
 
 ---
 
-Usage Flow
+## Usage Flow
 
 1. Launch CLI menu.
 
@@ -134,7 +143,7 @@ Usage Flow
 
 ---
 
-Author
+## Author
 
 Poonam Gupta
 
